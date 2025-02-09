@@ -126,3 +126,9 @@ For more advanced features (e.g., batch conversion, compression), consider using
 ---
 
 This basic converter should work for most JPG images and provide a simple way to convert them to PNG, WEBP, or JPEG formats directly in the browser.
+
+- https://github.com/convert-apps/avif-to-jpg-png-webp
+- https://github.com/convert-apps/webp-to-png-jpg-gif
+- https://github.com/convert-apps/jpg-to-png-webp-jpeg
+- https://github.com/convert-apps/png-to-jpg-webp-ico
+- https://github.com/convert-apps/gif-to-jpg-png-webp
